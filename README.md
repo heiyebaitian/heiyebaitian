@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 你好呀，欢迎来到我的主页！ 👋
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=heiyebaitian&show_icons=true&theme=radical)
 <!--
 **heiyebaitian/heiyebaitian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
