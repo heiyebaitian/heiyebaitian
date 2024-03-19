@@ -1,5 +1,11 @@
 ### 你好呀，欢迎来到我的主页！ 👋
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=heiyebaitian&show_icons=true&theme=radical)
+### My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=heiyebaitian&show_icons=true&theme=tokyonight)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heiyebaitian&layout=compact&theme=tokyonight)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heiyebaitian&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **heiyebaitian/heiyebaitian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
