@@ -6,6 +6,13 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heiyebaitian&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heiyebaitian/heiyebaitian/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heiyebaitian/heiyebaitian/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heiyebaitian/heiyebaitian/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <!--
 **heiyebaitian/heiyebaitian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
