@@ -1,8 +1,4 @@
 ### 你好呀，欢迎来到我的主页！ 👋
-### My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=heiyebaitian&show_icons=true&theme=tokyonight)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heiyebaitian&layout=compact&theme=tokyonight)
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heiyebaitian&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
